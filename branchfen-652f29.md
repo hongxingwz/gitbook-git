@@ -6,9 +6,19 @@
 
 **提供&lt;oldbranch&gt; 重命名指定的分支**![](/assets/import-08-08-03.png)
 
+
+
+---
+
 * git branch \(-d \| -D\) \[-r\] &lt;branchname&gt; ...
 
 ![](/assets/import-08-08-05.png)
 
 **不能删除当前检出的分支**![](/assets/import-08-08-06.png)
+
+---
+
+git branch \(--set-upstream-to=&lt;upstream&gt; \| -u &lt;upstream&gt; \) \[&lt;branchname&gt;\]
+
+有点没有搞懂。
 
