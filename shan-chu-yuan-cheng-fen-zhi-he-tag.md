@@ -29,5 +29,18 @@ git tag -d <tagName>
 git push origin :refs/tags/<tagName>
 ```
 
+## 删除不存在对应远程分支的本地分支
+
+假设这样一种情况:
+
+1. 我创建了本地分支b1并push到远程分支origin/b1;
+2. 其他人在本地使用fetch或pull创建了本地的b1分支；
+3. 我删除了origin/b1远程分支；
+4. 其他人再次执行fetch或者pull并不会删除这个他们本地的b1分支，运行git branch -a 也不能看出这个branch被删除了，如何处理？
+
+使用下面的代码查看b1的状态
+
+
+
 
 
