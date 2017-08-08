@@ -38,9 +38,41 @@ git push origin :refs/tags/<tagName>
 3. 我删除了origin/b1远程分支；
 4. 其他人再次执行fetch或者pull并不会删除这个他们本地的b1分支，运行git branch -a 也不能看出这个branch被删除了，如何处理？
 
-使用下面的代码查看b1的状态
+使用下面的代码查看b1的状态:
 
+![](/assets/import-08-08-01.png)这时候能够看到b1是stale的，使用以看命令 ，可以将其从本地版本库中去除。
 
+```
+git remote prune origin
+```
+
+更简单的方法是使用这个命令，它在fetch之后删除掉没有与远程分支对应的本地分支：
+
+```
+git fetch -p
+```
+
+### 重命名远程分支
+
+在git中重命名远程分支，其实就是先删除远程分支，然后重命名本地分支，再重新提交一个远程分支。例如下面的例子，我需要把devel分支重命名为develop分支：
+
+**首先删除远程分支：**
+
+```bash
+$git branch --delete origin devel
+```
+
+**重命名本地分支:**
+
+```bash
+$git branch -m devel develop
+```
+
+**推送本地分支到远程仓库：**
+
+```bash
+$git push origin develop
+```
 
 
 
