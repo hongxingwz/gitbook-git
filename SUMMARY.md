@@ -10,4 +10,5 @@
   * [重命名本地分支](zhong-ming-ming-ben-di-fen-zhi.md)
   * [删除本地分支](shan-chu-ben-di-fen-zhi.md)
 * [配置文件git config介绍](pei-zhi-wenjian-git-config-jie-shao.md)
+* [Git自动换行符](gitzi-dong-huan-xing-fu.md)
 
