@@ -11,4 +11,7 @@
   * [删除本地分支](shan-chu-ben-di-fen-zhi.md)
 * [配置文件git config介绍](pei-zhi-wenjian-git-config-jie-shao.md)
 * [Git自动换行符](gitzi-dong-huan-xing-fu.md)
+* show
+* log
+* [查看一个文件的改动历史](cha-kan-yi-ge-wen-jian-de-gai-dong-li-shi.md)
 
