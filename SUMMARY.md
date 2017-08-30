@@ -14,7 +14,7 @@
 * show
 * log
 * [查看一个文件的改动历史](cha-kan-yi-ge-wen-jian-de-gai-dong-li-shi.md)
-* diff
+* [diff](diff.md)
 * [git比较两个文件的不同](gitbi-jiao-liang-ge-wen-jian-de-bu-tong.md)
 * [撤销暂存\(staged\)的文件](che-xiao-zan-5b5828-staged-de-wen-jian.md)
 
