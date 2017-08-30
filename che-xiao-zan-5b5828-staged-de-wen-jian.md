@@ -2,6 +2,8 @@
 
 ## 情况一：新添加的文件取消暂存
 **(use "git rm --cached -r <file>..." to unstage)**
+--cached
+ 使用此选项来unstaged和remove path only from the index.Working tree files, whether modified or not, will be left alone.
 
 ```
 jiangxuedeMacBook-Pro:springjpatest01 jianglei$ git status
