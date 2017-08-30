@@ -17,4 +17,6 @@
 * [diff](diff.md)
 * [git比较两个文件的不同](gitbi-jiao-liang-ge-wen-jian-de-bu-tong.md)
 * [撤销暂存\(staged\)的文件](che-xiao-zan-5b5828-staged-de-wen-jian.md)
+* [commit](commit.md)
+* [Git 标签](git-biao-qian.md)
 
