@@ -85,7 +85,7 @@ Changes not staged for commit:
 ```
 
 
-##撤销暂存区的添加的文件，但保留工作区对文件的修改
+## 撤销暂存区的添加的文件，但保留工作区对文件的修改
 ```
 jiangxuedeMacBook-Pro:springjpatest01 jianglei$ git status
 On branch master
