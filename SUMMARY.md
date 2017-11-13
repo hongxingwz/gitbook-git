@@ -19,4 +19,5 @@
 * [撤销暂存\(staged\)的文件](che-xiao-zan-5b5828-staged-de-wen-jian.md)
 * [commit](commit.md)
 * [Git 标签](git-biao-qian.md)
+* [git head](git-head.md)
 
