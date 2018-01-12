@@ -9,6 +9,7 @@
 * [branch \(分支\)](branchfen-652f29.md)
   * [重命名本地分支](zhong-ming-ming-ben-di-fen-zhi.md)
   * [删除本地分支](shan-chu-ben-di-fen-zhi.md)
+  * [检出本地仓库中origin/master这样的分支](jian-chu-ben-di-cang-ku-zhong-origin-master-zhe-yang-de-fen-zhi.md)
 * [配置文件git config介绍](pei-zhi-wenjian-git-config-jie-shao.md)
 * [Git自动换行符](gitzi-dong-huan-xing-fu.md)
 * [show](show.md)
