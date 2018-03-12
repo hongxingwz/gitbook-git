@@ -22,4 +22,5 @@
 * [commit](commit.md)
 * [Git 标签](git-biao-qian.md)
 * [git head](git-head.md)
+* [研发团队GIT开发流程新人学习指南](yan-fa-tuan-dui-git-kai-fa-liu-cheng-xin-ren-xue-xi-zhi-nan.md)
 
