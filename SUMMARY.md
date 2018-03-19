@@ -22,6 +22,6 @@
 * [commit](commit.md)
 * [Git 标签](git-biao-qian.md)
 * [git head](git-head.md)
-* [研发团队GIT开发流程新人学习指南](yan-fa-tuan-dui-git-kai-fa-liu-cheng-xin-ren-xue-xi-zhi-nan.md)
-* [git 远程删除分支后，本地git branch -a 依然能看到的解决办法](git-yuan-cheng-shan-chu-fen-zhi-hou-ff0c-ben-di-git-branch-a-yi-ran-neng-kan-dao-de-jie-jue-ban-fa.md)
+* [转：研发团队GIT开发流程新人学习指南](yan-fa-tuan-dui-git-kai-fa-liu-cheng-xin-ren-xue-xi-zhi-nan.md)
+* [转：git 远程删除分支后，本地git branch -a 依然能看到的解决办法](git-yuan-cheng-shan-chu-fen-zhi-hou-ff0c-ben-di-git-branch-a-yi-ran-neng-kan-dao-de-jie-jue-ban-fa.md)
 
