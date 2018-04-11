@@ -1,4 +1,4 @@
-# git 获取远程分支
+# tgit 获取远程分支
 
 git获取别人刚提交到服务器上的远程分支
 
@@ -22,7 +22,6 @@ video-management git:(management-monitor) ✗ git fetch origin management-check
   origin/research
   origin/wechat
   origin/yingla
-
 ```
 
 如上图已经把远程分支拉取到本地
