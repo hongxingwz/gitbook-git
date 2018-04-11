@@ -25,5 +25,5 @@
 * [转：研发团队GIT开发流程新人学习指南](yan-fa-tuan-dui-git-kai-fa-liu-cheng-xin-ren-xue-xi-zhi-nan.md)
 * [转：git 远程删除分支后，本地git branch -a 依然能看到的解决办法](git-yuan-cheng-shan-chu-fen-zhi-hou-ff0c-ben-di-git-branch-a-yi-ran-neng-kan-dao-de-jie-jue-ban-fa.md)
 * [clone\(克隆\)](cloneke-968629.md)
-* [克隆远程服务器上的指定分支](ke-long-yuan-cheng-fu-wu-qi-shang-de-zhi-ding-fen-zhi.md)
+  * [克隆远程服务器上的指定分支](ke-long-yuan-cheng-fu-wu-qi-shang-de-zhi-ding-fen-zhi.md)
 
