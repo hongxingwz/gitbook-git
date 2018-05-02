@@ -26,4 +26,5 @@
 * [转：git 远程删除分支后，本地git branch -a 依然能看到的解决办法](git-yuan-cheng-shan-chu-fen-zhi-hou-ff0c-ben-di-git-branch-a-yi-ran-neng-kan-dao-de-jie-jue-ban-fa.md)
 * [clone\(克隆\)](cloneke-968629.md)
   * [克隆远程服务器上的指定分支](ke-long-yuan-cheng-fu-wu-qi-shang-de-zhi-ding-fen-zhi.md)
+  * [项目分支太多，克隆速度很慢怎么办](xiang-mu-fen-zhi-tai-duo-ff0c-ke-long-su-du-hen-man-zen-yao-ban.md)
 
